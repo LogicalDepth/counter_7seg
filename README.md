@@ -16,4 +16,6 @@ Futher on , The project gives some LED controls :
 . UpDown Counting
 . Random Counting
 
+https://github.com/LogicalDepth/counter_7seg/blob/main/IMG_3481.MOV
+
 
